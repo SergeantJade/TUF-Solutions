@@ -6,18 +6,19 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **2** | 0 | 2 | 0 | `2026-11-07` |
+| **3** | 0 | 3 | 0 | `2026-11-08` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (2)
+### DSA (3)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
 | 0001 | [702. Largest Element](./DSA/General/largest-element) | [CPP](./DSA/General/largest-element/solution.cpp) | ⚪ Unspecified | `General` | `2026-11-06` |
-| 0002 | [695. Second Largest Element](./DSA/General/second-largest-element) | [CPP](./DSA/General/second-largest-element/solution.cpp) | ⚪ Unspecified | `General` | `2026-11-07` |
+| 0002 | [196. Remove duplicates from sorted array](./DSA/Arrays/remove-duplicates-from-sorted-array) | [CPP](./DSA/Arrays/remove-duplicates-from-sorted-array/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-11-08` |
+| 0003 | [695. Second Largest Element](./DSA/General/second-largest-element) | [CPP](./DSA/General/second-largest-element/solution.cpp) | ⚪ Unspecified | `General` | `2026-11-07` |
 
 ---
 
